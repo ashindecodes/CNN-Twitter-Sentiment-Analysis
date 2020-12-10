@@ -1,10 +1,10 @@
 # CNN-Twitter-Sentiment-Analysis
 
-# Tweets Word Count Disribution
+# Tweets Word Count Distribution
 
 ![cnn_word_count](https://user-images.githubusercontent.com/59103315/101739938-3a25e700-3a96-11eb-8e09-cd2e2c71d328.png)
 
-# Sentiment Disribution of the Tweets
+# Sentiment Distribution of the Tweets
 
 ![cnn_sentiment_distribution](https://user-images.githubusercontent.com/59103315/101741556-309d7e80-3a98-11eb-8af9-00d4c00904e8.png)
 
